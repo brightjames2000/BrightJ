@@ -1,2 +1,0 @@
-# BrightJ
-HNG Internship
